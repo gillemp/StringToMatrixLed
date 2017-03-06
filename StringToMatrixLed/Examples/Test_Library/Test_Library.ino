@@ -4,8 +4,8 @@ StringToMatrixLed stringToMatrixLed;
 void setup() {}
 
 //General variables
-int positionI = 1;
-float positionF = 1;
+int positionI = 0;
+float positionF = 0;
 
 
 void loop() {
